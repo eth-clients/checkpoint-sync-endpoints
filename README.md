@@ -21,13 +21,16 @@ Networks:
 ### Mainnet
 | Name      | State | Verification |                  Endpoint                   |            Contact details             | Notes |
 | --------- |:-----:|:------------:|:-------------------------------------------:|:--------------------------------------:|:----- |
+|BeaconState.info|✓      |✓             |https://beaconstate.info                    |                                        |       |
 
 
 ### Goerli
 | Name      | State | Verification |                  Endpoint                   |            Contact details             | Notes |
 | --------- |:-----:|:------------:|:-------------------------------------------:|:--------------------------------------:|:----- |
+|BeaconState.info|✓      |✓             |https://goerli.beaconstate.info             |                                        |       |
 
 
 ### Sepolia
 | Name      | State | Verification |                   Endpoint                   |            Contact details             | Notes |
 | --------- |:-----:|:------------:|:--------------------------------------------:|:--------------------------------------:|:----- |
+|BeaconState.info|✓      |✓             |https://sepolia.beaconstate.info             |                                        |       |
