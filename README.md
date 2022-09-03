@@ -21,12 +21,13 @@ Networks:
 ### Mainnet
 | Name      | State | Verification |                  Endpoint                   |            Contact details             | Notes |
 | --------- |:-----:|:------------:|:-------------------------------------------:|:--------------------------------------:|:----- |
+| invis.tools | ✓ | ✓ | https://sync.invis.tools | [@0xinvis](https://twitter.com/0xinvis) |  |
 
 
 ### Goerli
 | Name      | State | Verification |                  Endpoint                   |            Contact details             | Notes |
 | --------- |:-----:|:------------:|:-------------------------------------------:|:--------------------------------------:|:----- |
-
+| invis.tools | ✓ | ✓ | https://goerli-sync.invis.tools | [@0xinvis](https://twitter.com/0xinvis) |  |
 
 ### Sepolia
 | Name      | State | Verification |                   Endpoint                   |            Contact details             | Notes |
