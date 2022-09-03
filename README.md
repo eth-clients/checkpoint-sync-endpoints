@@ -21,7 +21,7 @@ Networks:
 ### Mainnet
 | Name      | State | Verification |                  Endpoint                   |            Contact details             | Notes |
 | --------- |:-----:|:------------:|:-------------------------------------------:|:--------------------------------------:|:----- |
-| invis.tools | ✓ | ✓ | https://sync.invis.tools | [@0xinvis](https://twitter.com/0xinvis) |  |
+| invis.tools | ✓ | ✓ | https://sync.invis.tools | [@0xinvis](https://twitter.com/0xinvis) | [Uptime](https://status.invis.tools) |
 
 
 ### Goerli
