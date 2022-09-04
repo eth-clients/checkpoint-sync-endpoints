@@ -21,14 +21,14 @@ Networks:
 ### Mainnet
 | Name      | State | Verification |                  Endpoint                   |            Contact details             | Notes |
 | --------- |:-----:|:------------:|:-------------------------------------------:|:--------------------------------------:|:----- |
-|BeaconState.info|✓      |✓             |https://beaconstate.info                    |                                        |       |
-
+| BeaconState.info |✓      |✓             |https://beaconstate.info                    |                                        |       |
+| invis.tools | ✓ | ✓ | https://sync.invis.tools | [@0xinvis](https://twitter.com/0xinvis) | [Uptime](https://status.invis.tools) |
 
 ### Goerli
 | Name      | State | Verification |                  Endpoint                   |            Contact details             | Notes |
 | --------- |:-----:|:------------:|:-------------------------------------------:|:--------------------------------------:|:----- |
-|BeaconState.info|✓      |✓             |https://goerli.beaconstate.info             |                                        |       |
-
+| BeaconState.info |✓      |✓             |https://goerli.beaconstate.info             |                                        |       |
+| invis.tools | ✓ | ✓ | https://goerli-sync.invis.tools | [@0xinvis](https://twitter.com/0xinvis) |  |
 
 ### Sepolia
 | Name      | State | Verification |                   Endpoint                   |            Contact details             | Notes |
