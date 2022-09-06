@@ -30,8 +30,10 @@ Networks:
 | --------- |:-----:|:------------:|:-------------------------------------------:|:--------------------------------------:|:----- |
 | BeaconState.info |✓      |✓             |https://goerli.beaconstate.info             |                                        |       |
 | invis.tools | ✓ | ✓ | https://goerli-sync.invis.tools | [@0xinvis](https://twitter.com/0xinvis) |  |
+| EF DevOps | ✓ | ✓ | https://goerli.checkpoint-sync.ethdevops.io | [@samcmau](https://twitter.com/samcmau) [@savid](https://twitter.com/savid) |  |
 
 ### Sepolia
 | Name      | State | Verification |                   Endpoint                   |            Contact details             | Notes |
 | --------- |:-----:|:------------:|:--------------------------------------------:|:--------------------------------------:|:----- |
 |BeaconState.info|✓      |✓             |https://sepolia.beaconstate.info             |                                        |       |
+| EF DevOps | ✓ | ✓ | https://sepolia.checkpoint-sync.ethdevops.io | [@samcmau](https://twitter.com/samcmau) [@savid](https://twitter.com/savid) |  |
