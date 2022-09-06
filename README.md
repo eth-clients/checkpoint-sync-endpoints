@@ -23,6 +23,7 @@ Networks:
 | --------- |:-----:|:------------:|:-------------------------------------------:|:--------------------------------------:|:----- |
 | BeaconState.info |✓      |✓             |https://beaconstate.info                    |                                        |       |
 | invis.tools | ✓ | ✓ | https://sync.invis.tools | [@0xinvis](https://twitter.com/0xinvis) | [Uptime](https://status.invis.tools) |
+| EthStaker | ✓ | ✓ | https://beaconstate.ethstaker.cc | [@remy_roy](https://twitter.com/remy_roy) |       |
 
 ### Goerli
 | Name      | State | Verification |                  Endpoint                   |            Contact details             | Notes |
