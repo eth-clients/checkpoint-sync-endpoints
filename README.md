@@ -8,7 +8,12 @@ Endpoints can provide 2 main functions:
 - `state` providers - those who provide entire finalized states
 - `verification` providers - those who provide an **easy** way for verifying the state downloaded from a `state` provider.
 
-View the list in [Github Pages](https://eth-clients.github.io/checkpoint-sync-endpoints/).
+-----
+<p align="center" style="display: inline-block"> 
+  <a target=”_blank” href="https://eth-clients.github.io/checkpoint-sync-endpoints">View the list here </a>
+</p>
+
+-----
 
 # Contributing
 
