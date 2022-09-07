@@ -1,4 +1,4 @@
-## Ethereum Beacon Chain checkpoint sync endpoints
+# Ethereum Beacon Chain checkpoint sync endpoints
 
 This repository contains a community maintained list of Ethereum Beacon Chain checkpoint sync endpoints.
 
@@ -8,32 +8,8 @@ Endpoints can provide 2 main functions:
 - `state` providers - those who provide entire finalized states
 - `verification` providers - those who provide an **easy** way for verifying the state downloaded from a `state` provider.
 
-If you'd like to add your endpoint to the list please submit a PR. Please only list endpoints that are publicly available with relatively high uptime.
+View the list in [Github Pages](https://eth-clients.github.io/checkpoint-sync-endpoints/).
 
-## Endpoints
-Note: pick a random `state` provider, and verify your sync against multiple random `verification` providers for the same network.
+# Contributing
 
-Networks:
-- [Mainnet](#mainnet)
-- [Goerli](#goerli)
-- [Sepolia](#sepolia)
-
-### Mainnet
-| Name      | State | Verification |                  Endpoint                   |            Contact details             | Notes |
-| --------- |:-----:|:------------:|:-------------------------------------------:|:--------------------------------------:|:----- |
-| BeaconState.info |✓      |✓             |https://beaconstate.info                    |                                        |       |
-| invis.tools | ✓ | ✓ | https://sync.invis.tools | [@0xinvis](https://twitter.com/0xinvis) | [Uptime](https://status.invis.tools) |
-| EthStaker | ✓ | ✓ | https://beaconstate.ethstaker.cc | [@remy_roy](https://twitter.com/remy_roy) |       |
-
-### Goerli
-| Name      | State | Verification |                  Endpoint                   |            Contact details             | Notes |
-| --------- |:-----:|:------------:|:-------------------------------------------:|:--------------------------------------:|:----- |
-| BeaconState.info |✓      |✓             |https://goerli.beaconstate.info             |                                        |       |
-| invis.tools | ✓ | ✓ | https://goerli-sync.invis.tools | [@0xinvis](https://twitter.com/0xinvis) |  |
-| EF DevOps | ✓ | ✓ | https://goerli.checkpoint-sync.ethdevops.io | [@samcmau](https://twitter.com/samcmau) [@savid](https://twitter.com/savid) |  |
-
-### Sepolia
-| Name      | State | Verification |                   Endpoint                   |            Contact details             | Notes |
-| --------- |:-----:|:------------:|:--------------------------------------------:|:--------------------------------------:|:----- |
-|BeaconState.info|✓      |✓             |https://sepolia.beaconstate.info             |                                        |       |
-| EF DevOps | ✓ | ✓ | https://sepolia.checkpoint-sync.ethdevops.io | [@samcmau](https://twitter.com/samcmau) [@savid](https://twitter.com/savid) |  |
+If you'd like to add your endpoint to the list please read the [documentation](./CONTRIBUTING.md).

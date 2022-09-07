@@ -1,0 +1,20 @@
+- endpoint: https://goerli.beaconstate.info
+  name: BeaconState.info
+  state: true
+  verification: true
+- endpoint: https://goerli-sync.invis.tools
+  name: invis.tools
+  state: true
+  verification: true
+  contacts:
+    - name: "@0xinvis"
+      link: https://twitter.com/0xinvis
+- endpoint: https://goerli.checkpoint-sync.ethdevops.io
+  name: EF DevOps
+  state: true
+  verification: true
+  contacts:
+    - name: "@samcmau"
+      link: https://twitter.com/samcmau
+    - name: "@savid"
+      link: https://twitter.com/savid

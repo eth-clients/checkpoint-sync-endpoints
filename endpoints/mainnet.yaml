@@ -1,0 +1,21 @@
+- endpoint: https://beaconstate.info
+  name: BeaconState.info
+  state: true
+  verification: true
+- endpoint: https://sync.invis.tools
+  name: invis.tools
+  state: true
+  verification: true
+  contacts:
+    - name: "@0xinvis"
+      link: https://twitter.com/0xinvis
+  notes:
+    - name: Uptime
+      link: https://status.invis.tools/
+- endpoint: https://beaconstate.ethstaker.cc
+  name: EthStaker
+  state: true
+  verification: true
+  contacts:
+    - name: "@remy_roy"
+      link: https://twitter.com/remy_roy

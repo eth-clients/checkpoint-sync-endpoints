@@ -1,0 +1,13 @@
+- endpoint: https://sepolia.beaconstate.info
+  name: BeaconState.info
+  state: true
+  verification: true
+- endpoint: https://sepolia.checkpoint-sync.ethdevops.io
+  name: EF DevOps
+  state: true
+  verification: true
+  contacts:
+    - name: "@samcmau"
+      link: https://twitter.com/samcmau
+    - name: "@savid"
+      link: https://twitter.com/savid
