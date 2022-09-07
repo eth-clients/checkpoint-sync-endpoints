@@ -1,0 +1,17 @@
+list(include('endpoint'))
+---
+endpoint:
+  endpoint: str()
+  name: str()
+  state: bool()
+  verification: bool()
+  contacts: list(include('contact'), min=0, max=5, required=False)
+  notes: list(include('contact'), min=0, max=5, required=False)
+
+contact:
+  name: str()
+  link: str(required=False)
+
+note:
+  name: str()
+  link: str(required=False)
