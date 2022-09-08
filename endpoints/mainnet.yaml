@@ -19,3 +19,10 @@
   contacts:
     - name: "@remy_roy"
       link: https://twitter.com/remy_roy
+- endpoint: https://checkpointz.pietjepuk.net
+  name: PietjePuk
+  state: true
+  verification: true
+  contacts:
+    - name: "@pietjepuk2"
+      link: https://github.com/pietjepuk2
