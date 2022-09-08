@@ -72,12 +72,12 @@
   <script type="text/javascript">
     // randomly sort all tables
     (() => {
-      function sortTable(table) {
-        let rowsCollection = table.querySelectorAll("tr");
+      function sortTable(tbody) {
+        let rowsCollection = tbody.querySelectorAll("tr");
         let rows = Array.from(rowsCollection).slice(1);
         shuffleArray(rows);
         for (const row of rows) {
-          table.appendChild(row);
+          tbody.appendChild(row);
         }
       }
       function shuffleArray(array) {
@@ -88,9 +88,9 @@
           array[j] = temp;
         }
       }
-      var tables = document.getElementsByTagName("table");
-      for (var i = 0; i < tables.length; i++) {
-        sortTable(tables[i]);
+      var tbodies = document.getElementsByTagName("tbody");
+      for (var i = 0; i < tbodies.length; i++) {
+        sortTable(tbodies[i]);
       }
     })();
   </script>
