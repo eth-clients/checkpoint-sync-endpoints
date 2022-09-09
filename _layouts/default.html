@@ -74,7 +74,7 @@
     (() => {
       function sortTable(tbody) {
         let rowsCollection = tbody.querySelectorAll("tr");
-        let rows = Array.from(rowsCollection).slice(1);
+        let rows = Array.from(rowsCollection);
         shuffleArray(rows);
         for (const row of rows) {
           tbody.appendChild(row);
