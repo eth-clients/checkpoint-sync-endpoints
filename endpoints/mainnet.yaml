@@ -26,3 +26,10 @@
   contacts:
     - name: "@pietjepuk2"
       link: https://github.com/pietjepuk2
+- endpoint: https://mainnet-checkpoint-sync.stakely.io
+  name: Stakely
+  state: true
+  verification: true
+  contacts:
+    - name: "@Stakely_io"
+      link: https://twitter.com/Stakely_io
