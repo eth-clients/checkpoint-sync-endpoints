@@ -25,3 +25,10 @@
   contacts:
     - name: "@Stakely_io"
       link: https://twitter.com/Stakely_io
+- endpoint: https://goerli.beaconstate.ethstaker.cc/
+  name: EthStaker
+  state: true
+  verification: true
+  contacts:
+    - name: "@remy_roy"
+      link: https://twitter.com/remy_roy
