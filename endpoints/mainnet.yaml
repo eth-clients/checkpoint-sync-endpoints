@@ -33,3 +33,7 @@
   contacts:
     - name: "@Stakely_io"
       link: https://twitter.com/Stakely_io
+- endpoint: https://mainnet.checkpoint.sigp.io
+  name: Sigma Prime
+  state: true
+  verification: true
