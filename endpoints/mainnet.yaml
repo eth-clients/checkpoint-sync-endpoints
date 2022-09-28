@@ -37,3 +37,10 @@
   name: Sigma Prime
   state: true
   verification: true
+- endpoint: https://mainnet-checkpoint-sync.attestant.io
+  name: Attestant
+  state: true
+  verification: true
+  contacts:
+    - name: "@attestantio"
+      link: https://twitter.com/attestantio
