@@ -1,3 +1,10 @@
+- endpoint: sync-mainnet.beaconcha.in
+  name: beaconcha.in
+  state: true
+  verification: true
+  contacts:
+    - name: "@beaconcha_in"
+      link: https://twitter.com/beaconcha_in
 - endpoint: https://beaconstate.info
   name: BeaconState.info
   state: true
