@@ -1,5 +1,5 @@
 - endpoint: sync-mainnet.beaconcha.in
-  name: Beaconcha.in
+  name: beaconcha.in
   state: true
   verification: true
   contacts:
