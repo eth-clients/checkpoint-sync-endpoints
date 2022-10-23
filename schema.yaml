@@ -1,7 +1,7 @@
 list(include('endpoint'))
 ---
 endpoint:
-  endpoint: str()
+  endpoint: str(matches='^(http|https)://.*', ignore_case=True)
   name: str()
   state: bool()
   verification: bool()
