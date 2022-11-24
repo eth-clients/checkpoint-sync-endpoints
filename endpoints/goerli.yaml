@@ -39,7 +39,7 @@
   contacts:
     - name: "@remy_roy"
       link: https://twitter.com/remy_roy
-- endpoint: https://beaconstate-goerli.chainsafe.io/
+- endpoint: https://beaconstate-goerli.chainsafe.io
   name: Lodestar (ChainSafe)
   state: true
   verification: true
