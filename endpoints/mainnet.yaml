@@ -51,3 +51,10 @@
   contacts:
     - name: "@attestantio"
       link: https://twitter.com/attestantio
+- endpoint: https://beaconstate-mainnet.chainsafe.io/
+  name: Lodestar (ChainSafe)
+  state: true
+  verification: true
+  contacts:
+    - name: "@lodestar_eth"
+      link: https://twitter.com/lodestar_eth 
