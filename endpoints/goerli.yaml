@@ -39,3 +39,7 @@
   contacts:
     - name: "@remy_roy"
       link: https://twitter.com/remy_roy
+- endpoint: https://prater.checkpoint.sigp.io
+  name: Sigma Prime
+  state: true
+  verification: true
