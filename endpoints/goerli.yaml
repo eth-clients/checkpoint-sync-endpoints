@@ -43,3 +43,10 @@
   name: Sigma Prime
   state: true
   verification: true
+- endpoint: https://beaconstate-goerli.chainsafe.io
+  name: Lodestar (ChainSafe)
+  state: true
+  verification: true
+  contacts:
+    - name: "@lodestar_eth"
+      link: https://twitter.com/lodestar_eth
