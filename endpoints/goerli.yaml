@@ -39,6 +39,10 @@
   contacts:
     - name: "@remy_roy"
       link: https://twitter.com/remy_roy
+- endpoint: https://prater.checkpoint.sigp.io
+  name: Sigma Prime
+  state: true
+  verification: true
 - endpoint: https://beaconstate-goerli.chainsafe.io
   name: Lodestar (ChainSafe)
   state: true
@@ -46,4 +50,3 @@
   contacts:
     - name: "@lodestar_eth"
       link: https://twitter.com/lodestar_eth
-      
