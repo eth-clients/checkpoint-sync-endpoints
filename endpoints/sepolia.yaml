@@ -2,7 +2,7 @@
   name: BeaconState.info
   state: true
   verification: true
-- endpoint: https://sepolia.checkpoint-sync.ethdevops.io
+- endpoint: https://checkpoint-sync.sepolia.ethpandaops.io
   name: EF DevOps
   state: true
   verification: true

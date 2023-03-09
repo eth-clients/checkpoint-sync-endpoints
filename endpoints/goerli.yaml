@@ -16,7 +16,7 @@
   contacts:
     - name: "@0xinvis"
       link: https://twitter.com/0xinvis
-- endpoint: https://goerli.checkpoint-sync.ethdevops.io
+- endpoint: https://checkpoint-sync.goerli.ethpandaops.io
   name: EF DevOps
   state: true
   verification: true
