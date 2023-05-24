@@ -50,3 +50,11 @@
   contacts:
     - name: "@lodestar_eth"
       link: https://twitter.com/lodestar_eth
+- endpoint: http://unstable.prater.beacon-api.nimbus.team/
+  name: Nimbus
+  state: true
+  verification: true
+  block: true
+  contacts:
+    - name: "@ethnimbus"
+      link: https://twitter.com/ethnimbus
