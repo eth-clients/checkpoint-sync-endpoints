@@ -53,7 +53,7 @@
 - endpoint: http://unstable.prater.beacon-api.nimbus.team/
   name: Nimbus
   state: true
-  verification: true
+  verification: false
   block: true
   contacts:
     - name: "@ethnimbus"

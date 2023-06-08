@@ -61,7 +61,7 @@
 - endpoint: http://testing.mainnet.beacon-api.nimbus.team/
   name: Nimbus
   state: true
-  verification: true
+  verification: false
   block: true
   contacts:
     - name: "@ethnimbus"
