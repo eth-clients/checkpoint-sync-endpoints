@@ -27,6 +27,6 @@ Networks:
 
 | Name      | State | Verification | Block |                 Endpoint                   |            Contact details             | Notes |
 |:----------|:------|:-------------|:------|:-------------------------------------------|:---------------------------------------|:------|{% for endpoint in endpoints %}
-| {{endpoint.name}} | {% if endpoint.state %}✅{% else %}❌{% endif %} | {% if endpoint.verification %}✅{% else %}❌{% endif %} || {% if endpoint.block %}✅{% else %}❌{% endif %} | [{{endpoint.endpoint}}]({{endpoint.endpoint}}) | {% if endpoint.contacts %}{% for contact in endpoint.contacts %}{% if contact.link %}[{{contact.name}}]({{contact.link}}){% else %}{{contact.name}}{% endif %} {% endfor %}{% endif %} | {% if endpoint.notes %}{% for note in endpoint.notes %}{% if note.link %}[{{note.name}}]({{note.link}}){% else %}{{note.name}} {% endif %}{% endfor %}{% endif %} |{% endfor %}
+| {{endpoint.name}} | {% if endpoint.state %}✅{% else %}❌{% endif %} | {% if endpoint.verification %}✅{% else %}❌{% endif %} | {% if endpoint.block %}✅{% else %}❌{% endif %} | [{{endpoint.endpoint}}]({{endpoint.endpoint}}) | {% if endpoint.contacts %}{% for contact in endpoint.contacts %}{% if contact.link %}[{{contact.name}}]({{contact.link}}){% else %}{{contact.name}}{% endif %} {% endfor %}{% endif %} | {% if endpoint.notes %}{% for note in endpoint.notes %}{% if note.link %}[{{note.name}}]({{note.link}}){% else %}{{note.name}} {% endif %}{% endfor %}{% endif %} |{% endfor %}
 
 {% endfor %}
