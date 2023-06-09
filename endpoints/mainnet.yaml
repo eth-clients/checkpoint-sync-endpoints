@@ -57,4 +57,12 @@
   verification: true
   contacts:
     - name: "@lodestar_eth"
-      link: https://twitter.com/lodestar_eth 
+      link: https://twitter.com/lodestar_eth
+- endpoint: http://testing.mainnet.beacon-api.nimbus.team/
+  name: Nimbus
+  state: true
+  verification: false
+  block: true
+  contacts:
+    - name: "@ethnimbus"
+      link: https://twitter.com/ethnimbus
