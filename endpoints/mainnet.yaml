@@ -9,6 +9,7 @@
   name: BeaconState.info
   state: true
   verification: true
+  block: true
 - endpoint: https://sync.invis.tools
   name: invis.tools
   state: true
