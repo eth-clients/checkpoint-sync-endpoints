@@ -1,0 +1,4 @@
+- endpoint: https://holesky.beaconstate.info
+  name: BeaconState.info
+  state: true
+  verification: true
