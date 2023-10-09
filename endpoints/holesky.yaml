@@ -16,3 +16,12 @@
   contacts:
     - name: "@remy_roy"
       link: https://twitter.com/remy_roy
+- endpoint: https://checkpoint-sync.holesky.ethpandaops.io
+  name: EF DevOps
+  state: true
+  verification: true
+  contacts:
+    - name: "@samcmau"
+      link: https://twitter.com/samcmau
+    - name: "@savid"
+      link: https://twitter.com/savid
