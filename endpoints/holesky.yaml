@@ -25,3 +25,12 @@
       link: https://twitter.com/samcmau
     - name: "@savid"
       link: https://twitter.com/savid
+- endpoint: https://holesky-checkpoint-sync.stakely.io
+  name: Stakely
+  state: true
+  verification: true
+  contacts:
+    - name: "@pacobits"
+      link: https://twitter.com/pacobits
+    - name: "@iicc1"
+      link: https://twitter.com/iicc_eth            
