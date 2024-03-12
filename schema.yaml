@@ -1,10 +1,11 @@
 list(include('endpoint'))
 ---
 endpoint:
-  endpoint: str()
+  endpoint: str(matches='^(http|https)://.*', ignore_case=True)
   name: str()
   state: bool()
   verification: bool()
+  block: bool(required=False)
   contacts: list(include('contact'), min=0, max=5, required=False)
   notes: list(include('contact'), min=0, max=5, required=False)
 

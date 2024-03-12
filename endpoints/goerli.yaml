@@ -1,3 +1,10 @@
+- endpoint: https://sync-goerli.beaconcha.in
+  name: beaconcha.in
+  state: true
+  verification: true
+  contacts:
+    - name: "@beaconcha_in"
+      link: https://twitter.com/beaconcha_in
 - endpoint: https://goerli.beaconstate.info
   name: BeaconState.info
   state: true
@@ -9,7 +16,7 @@
   contacts:
     - name: "@0xinvis"
       link: https://twitter.com/0xinvis
-- endpoint: https://goerli.checkpoint-sync.ethdevops.io
+- endpoint: https://checkpoint-sync.goerli.ethpandaops.io
   name: EF DevOps
   state: true
   verification: true
@@ -25,3 +32,22 @@
   contacts:
     - name: "@Stakely_io"
       link: https://twitter.com/Stakely_io
+- endpoint: https://prater.checkpoint.sigp.io
+  name: Sigma Prime
+  state: true
+  verification: true
+- endpoint: https://beaconstate-goerli.chainsafe.io
+  name: Lodestar (ChainSafe)
+  state: true
+  verification: true
+  contacts:
+    - name: "@lodestar_eth"
+      link: https://twitter.com/lodestar_eth
+- endpoint: http://unstable.prater.beacon-api.nimbus.team/
+  name: Nimbus
+  state: true
+  verification: false
+  block: true
+  contacts:
+    - name: "@ethnimbus"
+      link: https://twitter.com/ethnimbus

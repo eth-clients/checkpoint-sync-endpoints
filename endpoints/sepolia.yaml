@@ -2,7 +2,7 @@
   name: BeaconState.info
   state: true
   verification: true
-- endpoint: https://sepolia.checkpoint-sync.ethdevops.io
+- endpoint: https://checkpoint-sync.sepolia.ethpandaops.io
   name: EF DevOps
   state: true
   verification: true
@@ -11,3 +11,11 @@
       link: https://twitter.com/samcmau
     - name: "@savid"
       link: https://twitter.com/savid
+- endpoint: https://beaconstate-sepolia.chainsafe.io
+  name: Lodestar (ChainSafe)
+  state: true
+  verification: true
+  contacts:
+    - name: "@lodestar_eth"
+      link: https://twitter.com/lodestar_eth
+      

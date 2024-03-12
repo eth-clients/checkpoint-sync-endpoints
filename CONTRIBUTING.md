@@ -89,6 +89,16 @@ Adding a mainnet endpoint involes appending endpoint data to [`endpoints/mainnet
   verification: true
 ```
 
+### Block history endpoint
+
+```yaml
+- endpoint: https://checkpoint-sync.example.com
+  name: example.com
+  state: true
+  verification: true
+  block: true
+```
+
 ## Adding a new network
 
 New networks can be added by simply creating a new file in `endpoints/{network}.yaml` and adding at least one endpoint.

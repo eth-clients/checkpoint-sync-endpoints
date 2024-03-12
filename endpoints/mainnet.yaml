@@ -1,3 +1,10 @@
+- endpoint: https://sync-mainnet.beaconcha.in
+  name: beaconcha.in
+  state: true
+  verification: true
+  contacts:
+    - name: "@beaconcha_in"
+      link: https://twitter.com/beaconcha_in
 - endpoint: https://beaconstate.info
   name: BeaconState.info
   state: true
@@ -33,3 +40,29 @@
   contacts:
     - name: "@Stakely_io"
       link: https://twitter.com/Stakely_io
+- endpoint: https://mainnet.checkpoint.sigp.io
+  name: Sigma Prime
+  state: true
+  verification: true
+- endpoint: https://mainnet-checkpoint-sync.attestant.io
+  name: Attestant
+  state: true
+  verification: true
+  contacts:
+    - name: "@attestantio"
+      link: https://twitter.com/attestantio
+- endpoint: https://beaconstate-mainnet.chainsafe.io
+  name: Lodestar (ChainSafe)
+  state: true
+  verification: true
+  contacts:
+    - name: "@lodestar_eth"
+      link: https://twitter.com/lodestar_eth
+- endpoint: http://testing.mainnet.beacon-api.nimbus.team/
+  name: Nimbus
+  state: true
+  verification: false
+  block: true
+  contacts:
+    - name: "@ethnimbus"
+      link: https://twitter.com/ethnimbus

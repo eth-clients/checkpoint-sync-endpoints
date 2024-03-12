@@ -32,12 +32,17 @@ jobs:
           echo "mainnet:" > $TARGET
           cat endpoints/mainnet.yaml >> $TARGET
           # dump all endpoints into target except for mainnet
-          for body in endpoints/*.yaml; do filename=$(basename -- ${body%.*});  if [ "$filename" != "mainnet" ]; then echo "${filename}:" >> $TARGET; cat "$body" >> $TARGET; fi; done
+          for body in endpoints/*.yaml; do filename=$(basename -- ${body%.*});  if [ "$filename" != "mainnet" ]; then echo "" >> $TARGET; echo "${filename}:" >> $TARGET; cat "$body" >> $TARGET; echo "" >> $TARGET; fi; done
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
         with:
           source: ./
           destination: ./_site
+      - uses: actions/upload-artifact@v3
+        if: failure()
+        with:
+          name: endpoints
+          path: _data/endpoints.yaml
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
   deploy:
