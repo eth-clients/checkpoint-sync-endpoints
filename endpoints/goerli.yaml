@@ -25,13 +25,6 @@
       link: https://twitter.com/samcmau
     - name: "@savid"
       link: https://twitter.com/savid
-- endpoint: https://prater-checkpoint-sync.stakely.io
-  name: Stakely
-  state: true
-  verification: true
-  contacts:
-    - name: "@Stakely_io"
-      link: https://twitter.com/Stakely_io
 - endpoint: https://prater.checkpoint.sigp.io
   name: Sigma Prime
   state: true
