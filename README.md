@@ -11,7 +11,7 @@ Endpoints can provide 3 main functions:
 
 -----
 <p align="center" style="display: inline-block"> 
-  <a target=”_blank” href="https://eth-clients.github.io/checkpoint-sync-endpoints">View the list here </a>
+  <a target="_blank" href="https://eth-clients.github.io/checkpoint-sync-endpoints">View the list here </a>
 </p>
 
 -----
