@@ -41,7 +41,7 @@ Some common examples formatted in YAML
 
 ### Basic
 
-Adding a mainnet endpoint involes appending endpoint data to [`endpoints/mainnet.yaml`](./endpoints/mainnet.yaml);
+Adding a mainnet endpoint involves appending endpoint data to [`endpoints/mainnet.yaml`](./endpoints/mainnet.yaml);
 ```yaml
 - endpoint: https://checkpoint-sync.example.com
   name: example.com
