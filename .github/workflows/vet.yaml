@@ -1,6 +1,6 @@
 name: Vet
 
-on:  
+on:
   pull_request:
     branches:
       - main
@@ -11,9 +11,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
       - name: Lint
-        uses: nrkno/yaml-schema-validator-github-action@v4
+        uses: nrkno/yaml-schema-validator-github-action@v5
         with:
           schema: schema.yaml
           target: endpoints
