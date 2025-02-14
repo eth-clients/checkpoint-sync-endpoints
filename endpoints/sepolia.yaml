@@ -3,7 +3,7 @@
   state: true
   verification: true
 - endpoint: https://checkpoint-sync.sepolia.ethpandaops.io
-  name: EF DevOps
+  name: ethPandaOps
   state: true
   verification: true
   contacts:
@@ -18,4 +18,3 @@
   contacts:
     - name: "@lodestar_eth"
       link: https://twitter.com/lodestar_eth
-      
