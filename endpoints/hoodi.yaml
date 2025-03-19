@@ -1,0 +1,7 @@
+- endpoint: https://hoodi-checkpoint-sync.stakely.io
+  name: Stakely
+  state: true
+  verification: true
+  contacts:
+    - name: "@Stakely_io"
+      link: https://twitter.com/Stakely_io
