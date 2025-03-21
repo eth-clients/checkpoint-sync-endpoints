@@ -1,0 +1,16 @@
+- endpoint: https://checkpoint-sync.hoodi.ethpandaops.io
+  name: ethPandaOps
+  state: true
+  verification: true
+  contacts:
+    - name: "@samcmau"
+      link: https://twitter.com/samcmau
+    - name: "@savid"
+      link: https://twitter.com/savid
+- endpoint: https://beaconstate-hoodi.chainsafe.io
+  name: Lodestar (ChainSafe)
+  state: true
+  verification: true
+  contacts:
+    - name: "lodestar_eth"
+      link: https://twitter.com/lodestar_eth
