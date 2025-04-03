@@ -18,3 +18,10 @@
   contacts:
     - name: "@lodestar_eth"
       link: https://twitter.com/lodestar_eth
+- endpoint: https://sepolia-checkpoint-sync.attestant.io
+  name: Attestant
+  state: true
+  verification: true
+  contacts:
+    - name: "@attestantio"
+      link: https://twitter.com/attestantio
