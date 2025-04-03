@@ -1,3 +1,7 @@
+- endpoint: https://hoodi.beaconstate.info
+  name: BeaconState.info
+  state: true
+  verification: true
 - endpoint: https://hoodi.beaconstate.ethstaker.cc/
   name: EthStaker
   state: true

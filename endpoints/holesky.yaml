@@ -9,13 +9,6 @@
   contacts:
     - name: "lodestar_eth"
       link: https://twitter.com/lodestar_eth
-- endpoint: https://holesky.beaconstate.ethstaker.cc/
-  name: EthStaker
-  state: true
-  verification: true
-  contacts:
-    - name: "@remy_roy"
-      link: https://twitter.com/remy_roy
 - endpoint: https://checkpoint-sync.holesky.ethpandaops.io
   name: ethPandaOps
   state: true
