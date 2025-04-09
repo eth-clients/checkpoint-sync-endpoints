@@ -2,3 +2,10 @@
   name: BeaconState.info
   state: true
   verification: true
+- endpoint: https://hoodi.beaconstate.ethstaker.cc/
+  name: EthStaker
+  state: true
+  verification: true
+  contacts:
+    - name: "@remy_roy"
+      link: https://twitter.com/remy_roy
