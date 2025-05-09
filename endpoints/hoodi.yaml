@@ -9,3 +9,31 @@
   contacts:
     - name: "@remy_roy"
       link: https://twitter.com/remy_roy
+- endpoint: https://hoodi-checkpoint-sync.attestant.io
+  name: Attestant
+  state: true
+  verification: true
+  contacts:
+    - name: "@attestantio"
+      link: https://twitter.com/attestantio
+- endpoint: https://hoodi-checkpoint-sync.stakely.io
+  name: Stakely
+  state: true
+  verification: true
+  contacts:
+    - name: "@Stakely_io"
+      link: https://twitter.com/Stakely_io
+- endpoint: https://checkpoint-sync.hoodi.ethpandaops.io
+  name: ethPandaOps
+  state: true
+  verification: true
+  contacts:
+    - name: "@ethpandaops"
+      link: https://twitter.com/ethpandaops
+- endpoint: https://beaconstate-hoodi.chainsafe.io
+  name: Lodestar (ChainSafe)
+  state: true
+  verification: true
+  contacts:
+    - name: "lodestar_eth"
+      link: https://twitter.com/lodestar_eth
