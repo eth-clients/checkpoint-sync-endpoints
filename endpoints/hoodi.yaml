@@ -37,3 +37,7 @@
   contacts:
     - name: "lodestar_eth"
       link: https://twitter.com/lodestar_eth
+- endpoint: https://hoodi.checkpoint.sigp.io
+  name: Sigma Prime
+  state: true
+  verification: true
