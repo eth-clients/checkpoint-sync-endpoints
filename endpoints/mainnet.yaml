@@ -5,10 +5,6 @@
   contacts:
     - name: "@beaconcha_in"
       link: https://twitter.com/beaconcha_in
-- endpoint: https://beaconstate.info
-  name: BeaconState.info
-  state: true
-  verification: true
 - endpoint: https://beaconstate.ethstaker.cc
   name: EthStaker
   state: true

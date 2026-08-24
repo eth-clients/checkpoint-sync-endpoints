@@ -1,7 +1,3 @@
-- endpoint: https://sepolia.beaconstate.info
-  name: BeaconState.info
-  state: true
-  verification: true
 - endpoint: https://checkpoint-sync.sepolia.ethpandaops.io
   name: ethPandaOps
   state: true

@@ -1,7 +1,3 @@
-- endpoint: https://holesky.beaconstate.info
-  name: BeaconState.info
-  state: true
-  verification: true
 - endpoint: https://beaconstate-holesky.chainsafe.io
   name: Lodestar (ChainSafe)
   state: true
